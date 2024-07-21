@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yehreen
+- 👋 Hi, I’m @renzravela
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end 
-- 💞️ I’m looking to collaborate on Front-end Design
-- 📫 How to reach me -> renzaerolol@gmail.com
+- 🌱 I’m continuosly learning Front-end
+- 💞️ I’m looking for collaboration
+- 📫 How to reach me -> renzaerol.ravela@gmail.com
 
 <!---
 yehreen/yehreen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
