@@ -1,0 +1,3 @@
+Hello, I`m Renz Aerol Ravela, a recent graduate from Central Luzon State University. With a passion for developing and designing websites and applications, I strive to make complex concepts simple and user-friendly. My goal is to create intuitive and efficient solutions that enhance user experiences.
+
+Over the past one and a half years, I`ve gained valuable experience as a freelancer, primarily in developing and designing both the backend and frontend aspects of websites. I am passionate about learning and creating the best user experiences and interfaces, ensuring that every project I work on is both functional and user-friendly.
